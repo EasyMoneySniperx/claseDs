@@ -1,3 +1,5 @@
 print("primer commit")
 
-print("nos staged")
+print("segundo commit")
+
+print("tercer commit")
